@@ -101,4 +101,138 @@ h1 {
     padding-right: 26%;
 }
 
-.third-position {}
+.third-position {
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.cetagory {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 4%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 4%;
+
+}
+
+#food-box {
+    box-sizing: border-box;
+    border: 1px solid #FFEEEE;
+    background: #4f9da621;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 5%;
+}
+
+#education-box {
+    box-sizing: border-box;
+    border: 1px solid #FFEEEE;
+    background: #FFF4D6;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+#shelter-box {
+    box-sizing: border-box;
+    border: 1px solid #FFEEEE;
+    background: #ff595928;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 5%;
+}
+
+.section-four {
+    display: flex;
+    padding-bottom: 5%;
+}
+
+.section-four-position {
+    padding-top: 5%;
+    padding-right: 2%;
+    padding-left: 8%;
+}
+
+.section-four-position>p {
+    color: #707070;
+}
+
+.section-four-position>h1 {
+    color: black;
+    font-size: 40px;
+}
+
+#input-box {
+    color: #161615f5;
+    border: none;
+    outline: none;
+    padding: 10px 100px 10px 10px;
+    border-radius: 5px;
+    background-color: #7070701a;
+}
+
+#button {
+    color: #FFEEEE;
+    border: none;
+    outline: none;
+    padding: 10px 40px 10px 5px;
+    margin: -8px;
+    background-color: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.input-form {
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid #FFEEEE;
+    background: #ff595928;
+    border-radius: 5px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 8%;
+}
+
+
+.footer {
+    background-color: black;
+    border: 1px solid black;
+    color: #FF5959;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'The Nautigal', cursive;
+}
+
+
+.data-information {
+    box-sizing: border-box;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+
+.Data-Area {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: #4f9da600 5px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 60px #ff595986;
+}
